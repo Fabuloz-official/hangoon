@@ -1,0 +1,210 @@
+{
+  "siteTitle": "Hangoon",
+  "links": {
+    "terms": "https://docs.google.com/document/d/1D86r57lGM3wZbGeztR3UBwgpzA9vSdEnwa28MuTYFMo/edit?tab=t.0",
+    "orderForm": "https://docs.google.com/forms/d/e/1FAIpQLSfRvfPmqvdw5yY7ZzXHVV18r9VW57zmstpm3BYZc-jE_nc0Hg/viewform",
+    "linktree": "https://linktr.ee/h.aangoo.n",
+    "instagram": "https://www.instagram.com/h.aangoo.n/?hl=fr",
+    "tiktok": "https://www.tiktok.com/",
+    "x": "https://x.com/"
+  },
+  "theme": {
+    "colors": {
+      "background": "#ffffff",
+      "text": "#111111",
+      "mutedText": "#333333",
+      "border": "#e5e5e5",
+      "accent": "#111111",
+      "onAccent": "#ffffff",
+      "surface": "#f1f1f1",
+      "surfaceAlt": "#e2e2e2",
+      "surfaceDark": "#d5d5d5",
+      "surfaceLight": "#ebebeb",
+      "error": "#b00020",
+      "captionOverlay": "rgba(0, 0, 0, 0.55)",
+      "cardShadow": "rgba(0, 0, 0, 0.06)"
+    },
+    "fonts": {
+      "body": "Arial, Helvetica, sans-serif",
+      "heading": "Arial, Helvetica, sans-serif",
+      "interface": "Arial, Helvetica, sans-serif"
+    },
+    "sizes": {
+      "baseFontSize": "16px",
+      "navigationHeight": "72px",
+      "mobileNavigationHeight": "106px",
+      "contentMaxWidth": "1200px",
+      "cornerRadius": "16px"
+    }
+  },
+  "pricing": {
+    "services": [
+      {
+        "name": { "en": "Fullbody", "fr": "Personnage entier" },
+        "price": "70 €",
+        "image": "price/full.png"
+      },
+      {
+        "name": { "en": "Half-body", "fr": "Demi-corps" },
+        "price": "50 €",
+        "image": "price/half.png"
+      },
+      {
+        "name": { "en": "Headshot", "fr": "Portrait" },
+        "price": "35 €",
+        "image": "price/head.png"
+      },
+      {
+        "name": { "en": "Reference sheet", "fr": "Fiche de référence" },
+        "price": "100 €",
+        "image": "price/ref.png"
+      },
+      {
+        "name": { "en": "Emote", "fr": "Émote" },
+        "price": "20 €",
+        "image": "price/emote.png"
+      },
+      {
+        "name": { "en": "Chibi fullbody", "fr": "Chibi entier" },
+        "price": "35 €",
+        "image": "price/chibi.png"
+      }
+    ],
+    "referenceSheet": {
+      "description": { "en": "Simple shading only.", "fr": "Ombrage simple uniquement." },
+      "addons": [
+        { "name": { "en": "Fullbody", "fr": "Personnage entier" }, "price": "+37 €" },
+        { "name": { "en": "Half-body", "fr": "Demi-corps" }, "price": "+27 €" },
+        { "name": { "en": "Headshot", "fr": "Portrait" }, "price": "+17 €" },
+        { "name": { "en": "Chibi fullbody", "fr": "Chibi entier" }, "price": "+17 €" },
+        { "name": { "en": "Emote", "fr": "Émote" }, "price": "+10 €" },
+        { "name": { "en": "Close-up", "fr": "Gros plan" }, "price": "+10 €" },
+        { "name": { "en": "Wings", "fr": "Ailes" }, "price": "+10 €" },
+        { "name": { "en": "Accessories close-up", "fr": "Gros plan d’accessoires" }, "price": "+5 €" }
+      ]
+    },
+    "additionalOptions": [
+      { "name": { "en": "Background", "fr": "Arrière-plan" }, "price": "+20 €" },
+      { "name": { "en": "Additional character", "fr": "Personnage supplémentaire" }, "price": { "en": "+50% of the selected commission", "fr": "+50 % du tarif de la commission choisie" } },
+      { "name": { "en": "Commission with an NSFW version", "fr": "Version NSFW en supplément" }, "price": "+40 €" },
+      { "name": { "en": "NSFW commission", "fr": "Commission NSFW" }, "price": "+25 €" },
+      { "name": { "en": "Wings", "fr": "Ailes" }, "price": "+10 €" }
+    ]
+  },
+  "translations": {
+    "en": {
+      "brand": "Hangoon",
+      "home": "Home",
+      "gallery": "Gallery",
+      "prices": "Prices",
+      "about": "About",
+      "terms": "Terms of Service",
+      "links": "Links",
+      "contact": "Contact",
+      "faq": "FAQ",
+      "order": "Order",
+      "languageLabel": "Language",
+      "profileAlt": "Hangoon profile picture",
+      "role": "Furry artist",
+      "desc": "Welcome to my page! I draw original characters, commissions and illustrations. This is a placeholder description, you can change it anytime.",
+      "heading": "Digital Artist focused on Storytelling",
+      "cta": "Start Commission",
+      "count": "Over 60 artworks created over the past year",
+      "pill": "What do I offer",
+      "art": "Art Commission",
+      "sub": "Turning imagination into meaningful digital artworks",
+      "faqTitle": "Answers to the questions I hear most often.",
+      "faqIntro": "Click a question to reveal the answer.",
+      "aboutBioTitle": "A little about me",
+      "aboutBio": "Hi! I’m Hangoon, a furry artist who loves bringing characters to life. I enjoy creating expressive poses, exploring color and adding small details that make every character feel unique. This is a placeholder bio you can replace with your own story.",
+      "q1": "How do I request a commission?",
+      "a1": "Go to the Order page, fill out the form (include your social media handle) and wait for my confirmation!",
+      "q2": "What’s your refund policy?",
+      "a2": "All commissions are final. Refunds are not available due to the custom nature of the work.",
+      "q3": "How many revisions can I ask for?",
+      "a3": "You get two free revisions during the sketch stage. Major changes or extra revisions after approval may cost extra.",
+      "q4": "Who owns the copyright to the artwork?",
+      "a4": "I keep the rights to my artwork and may show it in my portfolio or on social media. Clients may not resell or modify it without my permission.",
+      "q5": "Do you accept rush orders?",
+      "a5": "Yes, but rush orders include an extra fee depending on the deadline.",
+      "q6": "Will I get progress updates?",
+      "a6": "Yes! I share WIPs (work-in-progress updates) during the sketch and coloring stages, and you can request minor changes then."
+    },
+    "fr": {
+      "brand": "Hangoon",
+      "home": "Accueil",
+      "gallery": "Galerie",
+      "prices": "Tarifs",
+      "about": "À propos",
+      "terms": "Conditions d’utilisation",
+      "links": "Liens",
+      "contact": "Contact",
+      "faq": "FAQ",
+      "order": "Commander",
+      "languageLabel": "Langue",
+      "profileAlt": "Photo de profil de Hangoon",
+      "role": "Artiste furry",
+      "desc": "Bienvenue sur ma page ! Je dessine des personnages originaux, des commissions et des illustrations. Ceci est une description provisoire, tu peux la changer quand tu veux.",
+      "heading": "Artiste numérique axée sur la narration",
+      "cta": "Lancer une commande",
+      "count": "Plus de 60 œuvres créées au cours de l’année passée",
+      "pill": "Ce que je propose",
+      "art": "Commissions d’art",
+      "sub": "Transformer l’imagination en œuvres numériques qui ont du sens",
+      "faqTitle": "Les réponses aux questions qu’on me pose le plus souvent.",
+      "faqIntro": "Clique sur une question pour afficher la réponse.",
+      "aboutBioTitle": "Quelques mots sur moi",
+      "aboutBio": "Bonjour ! Je suis Hangoon, artiste furry passionnée par la création de personnages. J’aime travailler les poses expressives, explorer les couleurs et ajouter des détails qui rendent chaque personnage unique. Ce texte est provisoire et peut être remplacé par ta propre histoire.",
+      "q1": "Comment demander une commande ?",
+      "a1": "Va sur la page Commander, remplis le formulaire (indique ton pseudo sur les réseaux) et attends ma confirmation !",
+      "q2": "Quelle est votre politique de remboursement ?",
+      "a2": "Toutes les commandes sont définitives. Aucun remboursement n’est possible, car le travail est réalisé sur mesure.",
+      "q3": "Combien de modifications puis-je demander ?",
+      "a3": "Deux modifications sont incluses pendant l’étape du croquis. Les grands changements ou modifications supplémentaires peuvent être facturés.",
+      "q4": "À qui appartiennent les droits de l’illustration ?",
+      "a4": "Je conserve les droits sur mon travail et peux le montrer dans mon portfolio ou sur les réseaux. Il ne peut pas être revendu ou modifié sans mon accord.",
+      "q5": "Acceptez-vous les commandes urgentes ?",
+      "a5": "Oui, avec un supplément qui dépend du délai demandé.",
+      "q6": "Aurai-je des nouvelles de l’avancement ?",
+      "a6": "Oui ! Je partage les étapes du croquis et de la couleur, où tu peux demander de petites modifications."
+    }
+  },
+  "phrases": {
+    "Gallery": { "en": "Gallery", "fr": "Galerie" },
+    "Add numbered images to the images folder, then run “node update-gallery.js”. Edit their captions in images/gallery.json.": { "en": "Add numbered images to the images folder, then run “node update-gallery.js”. Edit their captions in images/gallery.json.", "fr": "Ajoute les images numérotées dans le dossier images, puis lance « node update-gallery.js ». Modifie leurs descriptions dans images/gallery.json." },
+    "The gallery manifest could not be loaded. Open the site through a web server and check images/gallery.json.": { "en": "The gallery manifest could not be loaded. Open the site through a web server and check images/gallery.json.", "fr": "Le manifeste de la galerie n’a pas pu être chargé. Ouvre le site via un serveur web et vérifie images/gallery.json." },
+    "No available numbered images were found in the images folder.": { "en": "No available numbered images were found in the images folder.", "fr": "Aucune image numérotée disponible n’a été trouvée dans le dossier images." },
+    "Prices": { "en": "Prices", "fr": "Tarifs" },
+    "Commission prices and options": { "en": "Commission prices and options", "fr": "Tarifs des commissions et options" },
+    "Base commissions": { "en": "Base commissions", "fr": "Commissions de base" },
+    "Reference sheet base": { "en": "Reference sheet base", "fr": "Base de la fiche de référence" },
+    "Included in the base reference sheet": { "en": "Included in the base reference sheet", "fr": "Inclus dans la fiche de référence de base" },
+    "Reference sheet add-ons": { "en": "Reference sheet add-ons", "fr": "Options de la fiche de référence" },
+    "Additional options": { "en": "Additional options", "fr": "Options supplémentaires" },
+    "Pricing note": { "en": "Prices are in euros. Additional characters are charged at 50% of the selected commission price.", "fr": "Les prix sont en euros. Un personnage supplémentaire coûte 50 % du prix de la commission choisie." },
+    "About the artist": { "en": "About the artist", "fr": "À propos de l’artiste" },
+    "Hangoon profile picture": { "en": "Hangoon profile picture", "fr": "Photo de profil de Hangoon" },
+    "Furry Artist": { "en": "Furry Artist", "fr": "Artiste furry" },
+    "A little introduction": { "en": "A little about me", "fr": "Quelques mots sur moi" },
+    "Click a question to reveal the answer.": { "en": "Click a question to reveal the answer.", "fr": "Clique sur une question pour afficher la réponse." },
+    "Get in touch": { "en": "Get in touch", "fr": "Me contacter" },
+    "Tell me about your project.": { "en": "Tell me about your project.", "fr": "Parle-moi de ton projet." },
+    "Use my Google Form to send your request. It opens in a new tab so you can return to this site.": { "en": "Use my Google Form to send your request. It opens in a new tab so you can return to this site.", "fr": "Utilise mon formulaire Google pour envoyer ta demande. Il s’ouvre dans un nouvel onglet pour te permettre de revenir sur le site." },
+    "Open the contact form": { "en": "Open the contact form", "fr": "Ouvrir le formulaire de contact" },
+    "By submitting this form, you confirm that you have read and agreed to my Terms of Service": { "en": "By submitting this form, you confirm that you have read and agreed to my Terms of Service", "fr": "En envoyant ce formulaire, tu confirmes avoir lu et accepté mes conditions d’utilisation." },
+    "Read the FAQ ↗": { "en": "Read the FAQ ↗", "fr": "Consulter la FAQ ↗" },
+    "Commissions": { "en": "Commissions", "fr": "Commandes" },
+    "Let’s create something together.": { "en": "Let’s create something together.", "fr": "Créons quelque chose ensemble." },
+    "Share your character and your idea using the order form. Your next project starts here.": { "en": "Share your character and your idea using the order form. Your next project starts here.", "fr": "Présente ton personnage et ton idée dans le formulaire de commande. Ton prochain projet commence ici." },
+    "Open the order form": { "en": "Open the order form", "fr": "Ouvrir le formulaire de commande" },
+    "Read the Terms of Service before ordering.": { "en": "Read the Terms of Service before ordering.", "fr": "Lis les conditions d’utilisation avant de commander." },
+    "Before ordering": { "en": "Before ordering", "fr": "Avant de commander" },
+    "Terms of Service": { "en": "Terms of Service", "fr": "Conditions d’utilisation" },
+    "Read the complete Terms of Service in the linked document.": { "en": "Read the complete Terms of Service in the linked document.", "fr": "Lis les conditions complètes dans le document lié." },
+    "Open Terms of Service": { "en": "Open Terms of Service", "fr": "Ouvrir les conditions" },
+    "Links": { "en": "Links", "fr": "Liens" },
+    "Quick links to commissions and my social profiles. Social links can be replaced with direct profile URLs.": { "en": "Quick links to commissions and my social profiles. Social links can be replaced with direct profile URLs.", "fr": "Liens rapides vers les commandes et mes réseaux. Les liens des réseaux peuvent être remplacés par les URL directes de mes profils." },
+    "Hangoon’s Commission — Order form": { "en": "Hangoon’s Commission — Order form", "fr": "Commandes de Hangoon — Formulaire" },
+    "Original Linktree": { "en": "Original Linktree", "fr": "Linktree d’origine" }
+  }
+}

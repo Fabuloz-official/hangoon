@@ -1,0 +1,104 @@
+{
+  "images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg",
+    "4.jpg",
+    "5.jpg",
+    "6.jpg",
+    "7.jpg",
+    "8.jpg",
+    "9.jpg",
+    "10.jpg",
+    "11.jpg",
+    "12.jpg",
+    "13.jpg",
+    "14.jpg",
+    "15.jpg",
+    "16.jpg",
+    "17.jpg",
+    "18.jpg"
+  ],
+  "descriptions": {
+    "1.jpg": {
+      "en": "Artwork 1 — add a description here.",
+      "fr": "Illustration 1 — ajoute une description ici."
+    },
+    "2.jpg": {
+      "en": "Artwork 2 — add a description here.",
+      "fr": "Illustration 2 — ajoute une description ici."
+    },
+    "3.jpg": {
+      "en": "Artwork 3 — add a description here.",
+      "fr": "Illustration 3 — ajoute une description ici."
+    },
+    "4.jpg": {
+      "en": "Artwork 4 — add a description here.",
+      "fr": "Illustration 4 — ajoute une description ici."
+    },
+    "5.jpg": {
+      "en": "Artwork 5 — add a description here.",
+      "fr": "Illustration 5 — ajoute une description ici."
+    },
+    "6.jpg": {
+      "en": "Artwork 6 — add a description here.",
+      "fr": "Illustration 6 — ajoute une description ici."
+    },
+    "7.jpg": {
+      "en": "Artwork 7 — add a description here.",
+      "fr": "Illustration 7 — ajoute une description ici."
+    },
+    "8.jpg": {
+      "en": "Artwork 8 — add a description here.",
+      "fr": "Illustration 8 — ajoute une description ici."
+    },
+    "9.jpg": {
+      "en": "Artwork 9 — add a description here.",
+      "fr": "Illustration 9 — ajoute une description ici."
+    },
+    "10.jpg": {
+      "en": "Artwork 10 — add a description here.",
+      "fr": "Illustration 10 — ajoute une description ici."
+    },
+    "11.jpg": {
+      "en": "Artwork 11 — add a description here.",
+      "fr": "Illustration 11 — ajoute une description ici."
+    },
+    "12.jpg": {
+      "en": "Artwork 12 — add a description here.",
+      "fr": "Illustration 12 — ajoute une description ici."
+    },
+    "13.jpg": {
+      "en": "Artwork 13 — add a description here.",
+      "fr": "Illustration 13 — ajoute une description ici."
+    },
+    "14.jpg": {
+      "en": "Artwork 14 — add a description here.",
+      "fr": "Illustration 14 — ajoute une description ici."
+    },
+    "15.jpg": {
+      "en": "Artwork 15 — add a description here.",
+      "fr": "Illustration 15 — ajoute une description ici."
+    },
+    "16.jpg": {
+      "en": "Artwork 16 — add a description here.",
+      "fr": "Illustration 16 — ajoute une description ici."
+    },
+    "17.jpg": {
+      "en": "Artwork 17 — add a description here.",
+      "fr": "Illustration 17 — ajoute une description ici."
+    },
+    "18.jpg": {
+      "en": "Artwork 18 — add a description here.",
+      "fr": "Illustration 18 — ajoute une description ici."
+    },
+    "19.png": {
+      "en": "Artwork 19 — add a description here.",
+      "fr": "Illustration 19 — ajoute une description ici."
+    },
+    "20.png": {
+      "en": "Artwork 20 — add a description here.",
+      "fr": "Illustration 20 — ajoute une description ici."
+    }
+  }
+}
